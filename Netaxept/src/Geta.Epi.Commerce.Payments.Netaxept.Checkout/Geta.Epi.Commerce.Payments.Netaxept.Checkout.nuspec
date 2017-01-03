@@ -11,10 +11,10 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
     <copyright>Copyright 2016 Geta</copyright>
-    <tags>EPiServer Commerce 9</tags>
+    <tags>EPiServer Commerce 10</tags>
     <dependencies>
-      <dependency id="EPiServer.CMS.Core" version="9.0.0" />
-      <dependency id="EPiServer.Commerce.Core" version="9.0.0" />
+      <dependency id="EPiServer.CMS.Core" version="10.2.0" />
+      <dependency id="EPiServer.Commerce.Core" version="10.2.0" />
     </dependencies>
   </metadata>
   <files>
